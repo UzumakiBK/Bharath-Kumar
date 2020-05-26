@@ -1,7 +1,7 @@
 # MY PROJECTS
 
 # [Project 1: Intel Image Classification Challenge Kaggle](https://github.com/UzumakiBK/Intel-Image-Classification-Kaggle-Challenge)
-* Created a model that predicts the type of scenery in the image
+* Project made in Python, which uses packages such as Tensorflow, MatPlotLib, Numpy and Sklearn
 * The Intel kaggle dataset consists of training folder (~14000 images), validation folder(~3000 images) and a predict folder
 * The dataset consists of 6 classes: forest, glacier, sea, buildings, street, mountain
 * Used CNN with over 5 convolutional layers(Conv2D + MaxPooling2D) as the model. Compiled the model with Adam optimizer function, Categorical Cross Entropy as the loss function and classification accuracy, precision as the evaluation metrics. Utilized Image Data Augmentation and Dropouts to prevent overfitting. 

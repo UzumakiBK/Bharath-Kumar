@@ -1,6 +1,3 @@
-# Bharath-Kumar
-My Portfolio Website
-
 # MY PROJECTS
 
 # [Project 1: Intel Image Classification Challenge Kaggle](https://github.com/UzumakiBK/Intel-Image-Classification-Kaggle-Challenge)

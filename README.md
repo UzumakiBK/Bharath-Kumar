@@ -1,7 +1,7 @@
 # Bharath-Kumar
 My Portfolio Website
 
-# [MY PROJECTS]
+# MY PROJECTS
 
 # [Project 1: Intel Image Classification Challenge Kaggle](https://github.com/UzumakiBK/Intel-Image-Classification-Kaggle-Challenge)
 * Created a model that predicts the type of scenery in the image
@@ -11,6 +11,6 @@ My Portfolio Website
 * Achieved over 85% classification accuracy and 87% precision on the validation data. 
 
 
-# [CERTIFICATIONS] 
+# CERTIFICATIONS 
 
 # [Deep Learning Specialization by Coursera](https://coursera.org/share/510fe10047f611fc9a98edc52473a5db)
